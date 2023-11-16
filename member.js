@@ -1,4 +1,4 @@
-function skillsMenber() {
+function skillsMember() {
     return {
         restrict: "E",
         templateUrl: "modules/skills/vies/member.html",
